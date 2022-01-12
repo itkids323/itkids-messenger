@@ -1,0 +1,19 @@
+#!/bin/bash
+mv shirt7c_f.png shirt18_f.png
+mv shirt7b_f.png shirt17_f.png
+mv shirt7a_f.png shirt16_f.png
+mv shirt7_f.png shirt15_f.png
+mv shirt6b_f.png shirt14_f.png
+mv shirt6a_f.png shirt13_f.png
+mv shirt6_f.png shirt12_f.png
+mv shirt5b_f.png shirt11_f.png
+mv shirt4b_f.png shirt10_f.png
+mv shirt4a_f.png shirt9_f.png
+mv shirt4_f.png shirt8_f.png
+mv shirt3d_f.png shirt7_f.png
+mv shirt3c_f.png shirt6_f.png
+mv shirt3b_f.png shirt5_f.png
+mv shirt3a_f.png shirt4_f.png
+mv shirt2_f.png shirt0_f.png
+mv shirt2b_f.png shirt2_f.png
+mv shirt2a_f.png shirt1_f.png
