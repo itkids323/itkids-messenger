@@ -33,8 +33,8 @@ function text(text as string, x, y, size, color as string, bold)
 	endif
 endfunction txt
 
-	
-	
-	
-	
-	
+function strWithZero(value)
+	s as string
+	s = str(value)
+	if len(s)=1 then s = "0" + s
+endfunction s

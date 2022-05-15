@@ -129,12 +129,6 @@ function chatScreen()
 	loop
 endfunction
 
-function strWithZero(value)
-	s as string
-	s = str(value)
-	if len(s)=1 then s = "0" + s
-endfunction s
-
 function addNewMessage(unixtime, nickname as string, msg as string)
 	datetime as String
 	datetime = strWithZero(GetDaysFromUnix(unixtime)) + "-" + strWithZero(GetMonthFromUnix(unixtime)) + "-" + strWithZero(GetYearFromUnix(unixtime)) + " " + strWithZero(GetHoursFromUnix(unixtime)) + ":" + strWithZero(GetMinutesFromUnix(unixtime))
